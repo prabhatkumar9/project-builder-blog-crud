@@ -13,6 +13,9 @@ public class Blog {
 		this.blogDescription = blogDescription;
 		this.date = date;
 	}
+	public Blog() {
+		// TODO Auto-generated constructor stub
+	}
 	public String getBlogTitle() {
 		return blogTitle;
 	}
